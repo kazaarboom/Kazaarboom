@@ -10,5 +10,7 @@ object Tester {
 
     var editedString:String =properString.dropRight(3)
     println(editedString)
+
+    //added the lines to see whether they get fetched
   }
 }
